@@ -209,6 +209,9 @@ tempCodeRunnerFile.py
 # PyPI configuration file
 .pypirc
 
+# Raw data files (too large for GitHub)
+data/raw/*.duckdb
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
