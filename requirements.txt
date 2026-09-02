@@ -6,3 +6,4 @@ jupyter
 ipykernel
 duckdb 
 joblib
+pyarrow==17.0.0
